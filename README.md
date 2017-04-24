@@ -1,6 +1,9 @@
 # sitemap-gas
 GASでサイトマップを作成します（したい）
 
+以下のURLからコピーしてください
+https://docs.google.com/spreadsheets/d/1KbNn3Oc83oNPGPXB_pfSKKHSHF3zan0pFBzBEyor6mw/copy
+
 # Using
 
 B2のセルに取得したいサイトを入力してください。
