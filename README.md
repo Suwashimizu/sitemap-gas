@@ -2,7 +2,7 @@
 GASでサイトマップを作成します（したい）
 
 以下のURLからコピーしてください
-https://docs.google.com/spreadsheets/d/1KbNn3Oc83oNPGPXB_pfSKKHSHF3zan0pFBzBEyor6mw/copy
+https://docs.google.com/spreadsheets/d/1-i6dpTrWCTsc7BImV_Gi_hAxEbZ6Ku8W7Qg0BTO4yC8/copy
 
 # Using
 
